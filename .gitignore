@@ -1,0 +1,4 @@
+# Node.js projects
+node_modules/
+.env
+package-lock.json
